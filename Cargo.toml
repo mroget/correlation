@@ -7,8 +7,8 @@ keywords = ["math", "statistics", "correlation", "pearson", "spearman", "kendall
 description = "A very simple crate that implements the calculation of correlation coefficients."
 license = "MIT"
 readme = "README.md"
-repository = ""
-homepage = ""
+repository = "https://github.com/mroget/correlation"
+homepage = "https://github.com/mroget/correlation"
 
 
 [dev-dependencies]
