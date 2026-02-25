@@ -1,0 +1,12 @@
+11
+2 int pearson 5
+5 int pearson 10
+50 int pearson 10
+200 int pearson 10
+200 float pearson 20
+2 int spearman 5
+5 int spearman 10
+50 int spearman 10
+200 int spearman 10
+200 float spearman 20
+200 float kendall 20
