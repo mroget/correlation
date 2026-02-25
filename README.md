@@ -44,5 +44,5 @@ fn main() {
 These functions have been tested against their scipy.stats counterparts.
 
 # TODO
- [ ] Add Kendall Tau-B variant
- [ ] Add Kendall Tau-C variant
+ - Add Kendall Tau-B variant
+ - Add Kendall Tau-C variant
